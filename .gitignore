@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+build/
+*.uf2
+*.bin
+.venv/
+firmware/pico_sdk_import.cmake
